@@ -1,0 +1,30 @@
+{
+    "tripName": "Greecian Adventure",
+    "traveler": {
+        "name": "Persephone Poppyfield",
+        "contact": {
+            "email": "UnderWorldG0dde$$@email.com",
+            "phone": "852-951-6824"
+        }
+    },
+    "destinations": [
+        {
+            "location": "Athens",
+            "arrivalDate": "2026-06-10",
+            "departureDate": "2026-06-09",
+            "activities": [
+                {"title": "Worship Athena at the Parthenon", "time": "11:30AM"},
+                {"title": "Olive-Oil Pressing Class", "time": "2:15PM"}
+            ]
+        },
+        {
+            "location": "Crete",
+            "arrivalDate": "2026-06-16",
+            "departureDate": "2026-06-15",
+            "activities": [
+                {"title": "Burn an offering at Dikteon Cave, birthpace of Zeus", "time": "1:45PM"},
+                {"title": "Dinner with Ariadne at the Palace", "time": "6:00PM"}
+            ]
+        }
+    ]
+}
