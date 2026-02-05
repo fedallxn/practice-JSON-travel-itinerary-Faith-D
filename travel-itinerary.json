@@ -25,6 +25,43 @@
                 {"title": "Burn an offering at Dikteon Cave, birthpace of Zeus", "time": "1:45PM"},
                 {"title": "Dinner with Ariadne at the Palace", "time": "6:00PM"}
             ]
-        }
+        }, 
+        {
+            "location": "Barcelona",
+            "arrivalDate": "2026-06-22",
+            "departureDate": "2026-06-26",
+            "transportation": {
+                "mode": "Flight",
+                "cost": 180.00
+                    }
+                },
+            "activities": [
+    {
+      "title": "Sagrada Familia Tour",
+      "time": "11:00 AM"
+    },
+    {
+      "title": "Beach Day at Barceloneta",
+      "time": "4:00 PM"
+    }
     ]
+}
+
+"location": "Barcelona",
+  "arrivalDate": "2026-06-22",
+  "departureDate": "2026-06-26",
+  "transportation": {
+    "mode": "Flight",
+    "cost": 180.00
+  },
+  "activities": [
+    {
+      "title": "Sagrada Familia Tour",
+      "time": "11:00 AM"
+    },
+    {
+      "title": "Beach Day at Barceloneta",
+      "time": "4:00 PM"
+    }
+  ]
 }
